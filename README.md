@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
-<h3 align="center">International Student in the US passionate about all things AI.</h3>
+<h3 align="center">ML SWE @ Virufy, ML Researcher & Founder @ wpi.ai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpayariyak&label=Profile%20views&color=0e75b6&style=flat" alt="alpayariyak" /> </p>
 
