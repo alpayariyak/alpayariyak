@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aariyak@wpi.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alpayariyak/overlay/1635503080916/single-media-viewer/](https://www.linkedin.com/in/alpayariyak/overlay/1635503080916/single-media-viewer/)
+- [📄 Resume](https://www.linkedin.com/in/alpayariyak/overlay/1635503080916/single-media-viewer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
