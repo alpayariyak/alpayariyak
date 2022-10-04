@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Reinforcement Learning, NLP, ML, Python and common ML Frameworks.**
 
-- 📫 How to reach me **aariyak@wpi.edu**
+- 📫 Reach me at **aariyak@wpi.edu**
 
 - [📄 Resume](https://www.linkedin.com/in/alpayariyak/overlay/1635503080916/single-media-viewer/)
 
