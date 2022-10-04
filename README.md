@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpayariyak&label=Profile%20views&color=0e75b6&style=flat" alt="alpayariyak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpayariyak" alt="alpayariyak" /></a> </p>
-
 - 🔭 I’m currently working on [Fake News Detection](https://github.com/alpayariyak/Fake-News-Classification#detecting-fake-news-with-nlp-using-ml)
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
