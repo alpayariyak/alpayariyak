@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
+![Alpay's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpayariyak&show_icons=true&theme=dark&hide=prs,issues,contribs&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpayariyak)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [Fake News Detection](https://github.com/alpayariyak/Fake-News-Classification#detecting-fake-news-with-nlp-using-ml)
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
