@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
-<a href="https://github.com/alpayariyak"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alpayariyak&show_icons=true&theme=dark&hide=prs,issues,contribs&count_private=true" alt="Alpay's github stats" /></a> 
 - 🔭 I’m currently working on [Fake News Detection](https://github.com/alpayariyak/Fake-News-Classification#detecting-fake-news-with-nlp-using-ml)
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpayariyak&repo=Fake-News-Classification&theme=dark)](https://github.com/alpayariyak/Fake-News-Classification) |
