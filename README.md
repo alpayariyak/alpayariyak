@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
-- 🔭 I’m currently working on Solving Atari Breakout with Advanced DQN's
+- 🔭 I’m currently working on __Solving Atari Breakout with Advanced DQN's__
 
     <img src="https://miro.medium.com/max/640/1*jXpSVhjWRxgzDDKKVAQR8A.gif" width="250" height="300" />
 
