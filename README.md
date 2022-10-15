@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
-- 🔭 I’m currently working on [Fake News Detection](https://github.com/alpayariyak/Fake-News-Classification#detecting-fake-news-with-nlp-using-ml)
+- 🔭 I’m currently working on 
+![Solving Atari Breakout with Advanced DQN's](https://miro.medium.com/max/640/1*jXpSVhjWRxgzDDKKVAQR8A.gif)
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpayariyak&repo=Fake-News-Classification&theme=dark)](https://github.com/alpayariyak/Fake-News-Classification) |
-| ------------- |
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
 
