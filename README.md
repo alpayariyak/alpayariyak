@@ -8,7 +8,7 @@ __Solving Atari Breakout with Advanced DQN's__:
 <img src="https://miro.medium.com/max/640/1*jXpSVhjWRxgzDDKKVAQR8A.gif" width="250" height="300" />
 
 __GOMP.AI__:    
-<img src="https://media-exp1.licdn.com/dms/image/C4E2DAQHh_YwvlnN6EQ/profile-treasury-image-shrink_1920_1920/0/1668567361223?e=1669172400&v=beta&t=EFIWKr2Z4NaSngnFeMQhgiCyRMxNEjKOFgCosaU6TOA" width="400" height="300" />
+<img src="https://media-exp1.licdn.com/dms/image/C4E2DAQHh_YwvlnN6EQ/profile-treasury-image-shrink_1920_1920/0/1668567361223?e=1670122800&v=beta&t=l3RtDmhs6U9qSckIycvZWTxtASBye99_FYRzjAHJxKs" width="400" height="300" />
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
 
