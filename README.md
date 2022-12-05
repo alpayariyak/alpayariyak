@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **aariyak@wpi.edu**
 
-- [📄 Resume](https://www.linkedin.com/in/alpayariyak/overlay/1635503080916/single-media-viewer/)
+- [📄 Resume](https://github.com/alpayariyak/alpayariyak/files/10155535/aariyakresume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
