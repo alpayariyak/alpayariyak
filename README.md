@@ -14,6 +14,7 @@
 - __Smotri__ - a Movie & Show recommendation app that gives you personalized recommendations of what to watch next using your Netflix Watch History.
 - __Training Staff with RL__ - research focused on using Deep Reinforcement Learning to find the most effective policy of waste disposal at Material Recovery Facilities and training workers with it.
 - __Conformal Brain Tumor Ablation with RL__ - using Deep Q Networks and Policy Gradient Algorithms to ablate brain tumors in a simulated MATLAB environment using a needle-based therapeutic ultrasound applicator.
+- __chatGPT Plugin for PyCharm__ - integrating OpenAI's ChatGPT into Pycharm
 
 ### 📧 Contact me:
 - **aariyak@wpi.edu**
