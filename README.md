@@ -2,13 +2,8 @@
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
 
 - 🔭 I’m currently working on
-
-__Solving Atari Breakout with Advanced DQN's__:
-
-<img src="https://miro.medium.com/max/640/1*jXpSVhjWRxgzDDKKVAQR8A.gif" width="250" height="300" />
-
-__GOMP.AI__:    
-<img src="https://media-exp1.licdn.com/dms/image/C4E2DAQHh_YwvlnN6EQ/profile-treasury-image-shrink_1920_1920/0/1668567361223?e=1670122800&v=beta&t=l3RtDmhs6U9qSckIycvZWTxtASBye99_FYRzjAHJxKs" width="300" height="250" />
+  __GOMP.AI__:    
+  <img src="https://user-images.githubusercontent.com/98838263/205676848-15655325-d666-4087-95dc-1bb22358862b.png" width="300" height="250" />
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
 
