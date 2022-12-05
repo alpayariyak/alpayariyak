@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alpay Ariyak</h1>
 <h3 align="center">ML SWE @ Virufy | ML Researcher | Founder @ wpi.ai</h3>
-
-- 🔭 I’m currently working on
-  __GOMP.AI__:    
-  <img src="https://user-images.githubusercontent.com/98838263/205676848-15655325-d666-4087-95dc-1bb22358862b.png" width="300" height="250" />
-
-- 🌱 I’m currently learning **Natural Language Processing, Deep Reinforcement Learning, Deep Learning & JAX Framework.**
-
-- 💬 Ask me about **Reinforcement Learning, NLP, ML, Python and common ML Frameworks.**
-
-- 📫 Reach me at **aariyak@wpi.edu**
-
-- [📄 Resume](https://github.com/alpayariyak/alpayariyak/files/10155535/aariyakresume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alpayariyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpayariyak" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/alpayariyak"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+
+### :technologist: &nbsp;About Me :
+
+I am a Machine Learning Software Engineer from Russia & Turkey studying at Worcester Polytechnic Institute, but I prefer the term **M(L)agician🪄**
+
+📫 Reach me at **aariyak@wpi.edu**
+
+[📄 Resume](https://github.com/alpayariyak/alpayariyak/files/10155535/aariyakresume.pdf)
