@@ -6,7 +6,7 @@
 
 ### :technologist: &nbsp;About Me :
 
-- I am a Machine Learning Software Engineer from Russia & Turkey studying Computer Science at Worcester Polytechnic Institute, but I prefer the term **M(L)agician🪄**
+- I am a Machine Learning Software Engineer from Russia & Turkey studying Computer Science at Worcester Polytechnic Institute. 
 
 ### 💻 What I'm working on:
 - __Improving Mathematical Capabilities of Meta’s LLaMA LLM.__ - exploring use of Reinforcement Learning from Human Feedback to improve mathematical capabilities of Large Language Models
