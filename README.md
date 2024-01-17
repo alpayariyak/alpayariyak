@@ -21,7 +21,7 @@
 
 
 ## Recent Projects:
-- **[OpenChat-3.5-1210](https://huggingface.co/openchat/openchat-3.5-1210)**: the best Open Source 7B LLM in the World!
+- **[OpenChat-3.5-1210](https://huggingface.co/openchat/openchat-3.5-1210)** and **[OpenChat-3.5-0106](https://huggingface.co/openchat/openchat-3.5-0106)**: the best Open Source 7B LLMs in the World! Improved coding performance by nearly 20 points through curating, synthesizing and decontaminating an instruct coding dataset.
   - Sponsors:
     - RunPod
     - 01.ai
