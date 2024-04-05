@@ -21,7 +21,7 @@
 
 
 ## Recent Projects:
-- **[OpenChat-3.5-1210](https://huggingface.co/openchat/openchat-3.5-1210)** and **[OpenChat-3.5-0106](https://huggingface.co/openchat/openchat-3.5-0106)**: the best Open Source 7B LLMs in the World! Improved coding performance by nearly 20 points through curating, synthesizing and decontaminating an instruct coding dataset.
+- **[OpenChat-3.5-0106](https://huggingface.co/openchat/openchat-3.5-0106)** and **[OpenChat-3.5-1210](https://huggingface.co/openchat/openchat-3.5-1210)** : the best Open Source 7B LLMs in the World! Improved coding performance by nearly 20 points through curating, synthesizing and decontaminating an instruct coding dataset.
   - Sponsors:
     - RunPod
     - 01.ai
@@ -37,14 +37,14 @@
 
 ## Organizations:
 ### Core
-- [**OpenChat**](https://huggingface.co/openchat) (1/3)
-- [**Nous Research**](https://huggingface.co/NousResearch)
+- [**OpenChat**](https://huggingface.co/openchat) (1/2)
 - [**Skunkworks AI**](https://huggingface.co/SkunkworksAI)
+### Meember:
 - **[Cognitive Computations](https://huggingface.co/cognitivecomputations)**
-### Contributor:
 - [**BigCode**](https://www.bigcode-project.org) by HuggingFace
 - **[LAION](https://laion.ai)**
 - [**Ontocord AI**](https://huggingface.co/Multi-Domain-Expert-Learning)
+- [**Nous Research**](https://huggingface.co/NousResearch)
 
 
 
