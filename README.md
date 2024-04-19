@@ -36,10 +36,13 @@
     - LAION
 
 ## Organizations:
-### Core
-- [**OpenChat**](https://huggingface.co/openchat) (1/2)
+### Lead:
+- [**OpenChat**](https://huggingface.co/openchat) 
+
+### Core:
 - [**Skunkworks AI**](https://huggingface.co/SkunkworksAI)
-### Meember:
+
+### Team/Affiliate
 - **[Cognitive Computations](https://huggingface.co/cognitivecomputations)**
 - [**BigCode**](https://www.bigcode-project.org) by HuggingFace
 - **[LAION](https://laion.ai)**
