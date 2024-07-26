@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Alpay Ariyak</h1>
-<h3 align="center"> Research Scientist, Model Training @ Together AI </h3>
+<h3 align="center"> Research Scientist @ Together AI </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/alpayariyak">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20">
